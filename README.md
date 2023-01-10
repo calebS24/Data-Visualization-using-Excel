@@ -1,0 +1,5 @@
+# Data-Visualization-using-Excel
+
+
+Over the past decade, more and more attention has been paid to sustainability in each raw material sector, especially in the footwear sector. Compounds commonly used in the past to reduce the noise of machinery working in factories, increase energy efficiency, improve working conditions for those involved in the design and manufacture of shoes, etc. It helps to ensure an acceptable level of sustainability in the footwear sector compared to what is achieved in the production situation and overall not only from an environmental protection point of view but also from an improved social condition point of view. had a positive impact on, also economical. 
+For this project, I'm working from the perspective of a potential competitor who would like to understand each shoes separately. Some of the things we will look to analyze are its product categories, pricing structure, distribution of its offer, how the product is marketed, how the purchase of shoes vary within states, what their customers are asking for, how different measures impact customer satisfaction, and so on.
