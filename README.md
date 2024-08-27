@@ -1,5 +1,44 @@
-# Data-Visualization-using-Excel
+# Data Visualization using Excel
 
+This repository contains tools and resources for creating an interactive dashboard using Microsoft Excel. The focus is on leveraging Excel's capabilities to analyze and visualize data, particularly in the context of the footwear industry.
 
-Over the past decade, more and more attention has been paid to sustainability in each raw material sector, especially in the footwear sector. Compounds commonly used in the past to reduce the noise of machinery working in factories, increase energy efficiency, improve working conditions for those involved in the design and manufacture of shoes, etc. It helps to ensure an acceptable level of sustainability in the footwear sector compared to what is achieved in the production situation and overall not only from an environmental protection point of view but also from an improved social condition point of view. had a positive impact on, also economical. 
-For this project, I'm working from the perspective of a potential competitor who would like to understand each shoes separately. Some of the things we will look to analyze are its product categories, pricing structure, distribution of its offer, how the product is marketed, how the purchase of shoes vary within states, what their customers are asking for, how different measures impact customer satisfaction, and so on.
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Files](#files)
+- [License](#license)
+
+## Project Overview
+
+This project explores various data visualization techniques in Excel to create an interactive dashboard. The case study involves analyzing data related to shoe sales, including product categories, pricing structures, geographic distribution, and customer satisfaction.
+
+## Features
+
+- Interactive dashboard creation using Excel.
+- Visualization of sales data by product category and geography.
+- Analysis of customer satisfaction metrics.
+
+## Installation
+
+No installation is required. Ensure you have Microsoft Excel installed on your system.
+
+## Usage
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/calebS24/Data-Visualization-using-Excel.git
+    ```
+2. Open the `Shoe Sales Dashboard.xlsx` file in Excel.
+3. Explore and interact with the dashboard to analyze the data.
+
+## Files
+
+- `Shoe Sales Dashboard.xlsx`: The Excel file containing the interactive dashboard.
+- `Report on Data Visualization.docx`: A report detailing the data visualization techniques used.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
